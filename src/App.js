@@ -8,7 +8,7 @@ function App() {
         <Weather defaultCity="London" />
         <footer>
           <a
-            href="https://github.com/Wintermariesolstice?tab=repositories"
+            href="https://github.com/Wintermariesolstice/Weather-React"
             target="_blank"
             rel="noreferrer"
           >
