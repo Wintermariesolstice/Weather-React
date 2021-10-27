@@ -1,6 +1,6 @@
 .WeatherForecast {
   text-align: center;
-  margin: 0px 20px;
+  margin-top: 20px;
 }
 
 .WeatherForecast-temperature-min {
@@ -8,7 +8,7 @@
   margin-left: auto;
 }
 .WeatherForecast-temperature-max {
-  margin-left: auto;
+  margin-left: 5px;
 }
 
 .row {
