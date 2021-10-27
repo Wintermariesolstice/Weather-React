@@ -14,7 +14,7 @@
 .row {
   display: inline-flex;
   flex-direction: row;
-  margin: 10px auto;
+  margin: auto;
 }
 .col {
   margin-inline-start: 5px;
