@@ -5,10 +5,10 @@
 
 .WeatherForecast-temperature-min {
   opacity: 0.6;
-  margin-left: 5px;
+  margin-left: auto;
 }
 .WeatherForecast-temperature-max {
-  margin-left: 5px;
+  margin-left: auto;
 }
 
 .row {
