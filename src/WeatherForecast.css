@@ -8,7 +8,7 @@
   margin-left: 5px;
 }
 .WeatherForecast-temperature-max {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .row {
@@ -17,5 +17,5 @@
   margin: 15px auto;
 }
 .col {
-  margin-inline-start: 30px;
+  margin-inline-start: 10px;
 }

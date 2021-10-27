@@ -3,6 +3,7 @@ import WeatherInfo from "./WeatherInfo";
 import WeatherForecast from "./WeatherForecast";
 import axios from "axios";
 import "./Weather.css";
+import "bootstrap/dist/css/bootstrap.css";
 
 export default function Weather(props) {
   const [weatherData, setWeatherData] = useState({ ready: false });
@@ -47,7 +48,7 @@ export default function Weather(props) {
 
         <form className="mb-3" onSubmit={handleSubmit}>
           <div className="row">
-            <div className="col-3">
+            <div className="col-9">
               <input
                 type="search"
                 placeholder="Type a city.."
